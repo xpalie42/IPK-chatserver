@@ -1,3 +1,4 @@
 ## Usage:
 
-`./ipk_server`
+```make
+./ipk_server```
